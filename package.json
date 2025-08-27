@@ -1,0 +1,38 @@
+{
+  "name": "g5l89m",
+  "version": "0.0.9",
+  "description": "Custom Bot By Grav",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \" && exit 1",
+    "eject": "react-scripts eject"
+  },
+  "author": "Grav",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "common-tags": "^1.8.0",
+    "dateformat": "^3.0.3",
+    "discord-fivem-api": "^1.0.1",
+    "discord.js": "^11.6.4",
+    "discord.js-commando": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "env": "0.0.2",
+    "fs": "0.0.1-security",
+    "gamedig": "^3.0.0",
+    "leeks.js": "0.0.8",
+    "leekslazylogger": "^1.1.9",
+    "modules": "^0.4.0",
+    "node-fetch": "^2.6.1",
+    "opusscript": "0.0.7",
+    "patch": "0.0.1",
+    "path": "^0.12.7",
+    "random-puppy": "^1.1.0",
+    "ytdl-core": "^2.1.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  }
+}
